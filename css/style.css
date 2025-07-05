@@ -1,0 +1,755 @@
+.headerhomebg {
+    background-color: #000;
+}
+
+.seccaetbg {
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.secsectex {
+    padding: 0;
+}
+
+.seccaetbg i {
+    color: #171717;
+    font-size: 20px;
+    padding: 12px;
+}
+
+.seccaetbg i {
+    color: #fff;
+    font-size: 20px;
+    padding: 12px;
+}
+
+.navbar-brand {
+    height: auto;
+}
+
+nav.navbar.navbar-expand-xl.navbar-dark {
+    margin: 0;
+}
+
+.headermenusec {
+    font-family: 'Bricolage Grotesque';
+    font-size: 20px;
+    text-transform: capitalize;
+}
+
+.headermenusec:hover {
+    text-decoration: none;
+    color: #fff;
+}
+
+.secherobg {
+    background-color: #000;
+    padding-bottom: 60px;
+}
+
+.secdistext {
+    font-family: 'Bricolage Grotesque';
+    font-size: 16px;
+    color: #fff;
+    text-align: center;
+}
+
+.secbbthero {
+    text-align: center;
+    padding-top: 28px;
+}
+
+.secbbthero a {
+    font-family: 'Bricolage Grotesque';
+    font-size: 18px;
+    font-weight: 500;
+    color: #fff;
+    background-color: #007AFF;
+    padding: 16px 30px 16px 10px;
+    border-radius: 50px;
+}
+
+.secbbthero a:hover {
+    background-color: #fff;
+    color: #000;
+    text-decoration: none;
+}
+
+.secbbthero a:hover i {
+    background-color: #007AFF;
+    color: #fff;
+}
+
+.secbbthero a i {
+    background-color: #fff;
+    border-radius: 50px;
+    color: #000;
+    padding: 10px 11px;
+}
+
+.secntheb {
+    margin-right: 20px;
+}
+
+.logosec {
+    padding: 0px;
+}
+
+.sectabprodbg {
+    background-color: #F5F5F5;
+    padding: 60px 50px;
+}
+
+.secprodtext {
+    font-family: 'Bricolage Grotesque';
+    font-size: 40px;
+    font-weight: 500;
+    color: #000;
+    text-transform: capitalize;
+}
+
+#sectab a.nav-link {
+    font-family: 'Bricolage Grotesque';
+    font-size: 12px;
+    color: #575757;
+    text-transform: capitalize;
+    border: 1px solid #575757 !important;
+    border-radius: 50px !important;
+    background: transparent !important;
+}
+
+#sectab .nav-item .nav-link.active {
+    color: #fff !important;
+    text-transform: capitalize;
+    border: 1px solid #575757 !important;
+    border-radius: 50px;
+    background: #000 !important;
+}
+
+#sectab .nav-link:hover {
+    font-family: 'Bricolage Grotesque';
+    font-size: 12px;
+    color: #fff !important;
+    text-transform: capitalize;
+    border: 1px solid #575757 !important;
+    border-radius: 50px;
+    background: #000 !important;
+}
+
+#sectab li.nav-item.active a {
+    color: #fff !important;
+    text-transform: capitalize;
+    border: 1px solid #000 !important;
+    border-radius: 50px;
+    background: #000 !important;
+}
+
+.nav-tabs {
+    border-bottom: 0px !important;
+}
+
+.tab-content {
+    padding-top: 30px;
+}
+
+/* Product card */
+.producrslider .item {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    transition: transform 0.3s ease;
+}
+
+.producrslider .item:hover {
+    transform: translateY(-5px);
+}
+
+.secprudtibg {
+    display: flex;
+}
+
+.secprudtibg h6 {
+    width: 70%;
+    font-family: 'Bricolage Grotesque';
+    font-size: 17px;
+    text-align: start !important;
+    font-weight: 500;
+    color: #000;
+}
+
+.secprudtibg h5 {
+    width: 30%;
+    font-family: 'Bricolage Grotesque';
+    font-size: 16px;
+    font-weight: 700;
+    color: #000 !important;
+    margin-top: 20px !important;
+}
+
+.secbtnca {
+    font-family: 'Bricolage Grotesque';
+    font-size: 13px;
+    font-weight: 500;
+    border: 1px solid #464646;
+    border-radius: 50px;
+    padding: 12px 10px 12px 5px;
+    color: #000;
+}
+
+.secbtnca:hover {
+    background-color: #000;
+    color: #fff;
+    text-decoration: none;
+}
+
+.secbtnca i {
+    background-color: #fff;
+    border-radius: 50px;
+    padding: 10px 11px;
+}
+
+.secbtnca:hover i {
+    background-color: #007AFF;
+}
+
+.secbtnca2 {
+    font-family: 'Bricolage Grotesque';
+    font-size: 13px;
+    font-weight: 500;
+    border: 1px solid #464646;
+    border-radius: 50px;
+    padding: 12px 10px 12px 5px;
+    color: #fff;
+    background-color: #000;
+}
+
+.secbtnca2 i {
+    background-color: #007AFF;
+    border-radius: 50px;
+    padding: 10px 11px;
+}
+
+.secbtnca2:hover i {
+    background-color: #fff;
+}
+
+.secbtnca2:hover {
+    background-color: transparent;
+    text-decoration: none;
+    color: #000;
+}
+
+.owl-nav {
+    position: absolute;
+    top: -45px;
+    right: 0;
+}
+
+button.owl-prev {
+    margin-right: 20px;
+    border: 1px solid #070707 !important;
+    border-radius: 50px !important;
+    font-size: 20px !important;
+    padding: 5px 13px !important;
+}
+
+button.owl-next {
+    border: 1px solid #070707 !important;
+    border-radius: 50px !important;
+    font-size: 20px !important;
+    padding: 5px 13px !important;
+}
+
+.secommitbg {
+    background-color: #000;
+    padding: 50px 10px 50px 10px;
+}
+
+.secwittext {
+    font-family: 'Bricolage Grotesque';
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+    color: #fff;
+}
+
+.secwittext span {
+    background-color: #007AFF;
+    padding: 0px 5px;
+}
+
+.secflashbg {
+    background-image: url(../images/feshbgimg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 60px;
+    margin-bottom: 200px;
+}
+
+.secflstext {
+    font-family: 'Bricolage Grotesque';
+    font-size: 200px;
+    font-weight: 600;
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+    padding-top: 100px;
+}
+
+.sclrarq {
+    background-color: #000;
+    padding: 0px 0px;
+    margin-top: -320px;
+    position: relative;
+    z-index: 99;
+}
+
+marquee {
+    font-family: 'Bricolage Grotesque';
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.secbtnandodbg {
+    padding-top: 100px;
+}
+
+.secofftext {
+    font-family: 'Bricolage Grotesque';
+    font-size: 20px;
+    font-weight: 500;
+    color: #fff;
+}
+
+.secofftext span {
+    font-size: 90px;
+}
+
+.secbbtherooffer {
+    text-align: end;
+    padding-top: 28px;
+}
+
+.secbbtherooffer a {
+    font-family: 'Bricolage Grotesque';
+    font-size: 18px;
+    font-weight: 500;
+    color: #fff;
+    background-color: #007AFF;
+    padding: 16px 30px 16px 10px;
+    border-radius: 50px;
+}
+
+.secbbtherooffer a:hover {
+    background-color: #fff;
+    color: #000;
+    text-decoration: none;
+}
+
+.secbbtherooffer a:hover i {
+    background-color: #007AFF;
+    color: #fff;
+}
+
+.secbbtherooffer a i {
+    background-color: #fff;
+    border-radius: 50px;
+    color: #000;
+    padding: 10px 11px;
+}
+
+.secinvvbg {
+    background-color: #F5F5F5;
+    padding: 30px 10px;
+}
+
+.secheadtext {
+    text-align: center;
+}
+
+.secheadtext h3 {
+    font-family: 'Bricolage Grotesque';
+    font-size: 40px;
+    font-weight: 500;
+    color: #000;
+}
+
+.secheadtext p {
+    font-family: 'Bricolage Grotesque';
+    font-size: 14px;
+    color: #000;
+}
+
+.secfutbg {
+    border-radius: 15px;
+    background-color: #fff;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.seccovtext {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.secprod1 {
+    width: 80%;
+}
+
+.secprod2 {
+    width: 20%;
+}
+
+.secprod1 h3 {
+    font-family: 'Bricolage Grotesque';
+    font-size: 20px;
+    color: #000;
+    font-weight: 500;
+}
+
+.secprod1 p {
+    font-family: 'Bricolage Grotesque';
+    font-size: 12px;
+    color: #000;
+}
+
+.secprod2 p a {
+    font-size: 20px;
+    color: #000;
+    padding: 12px 13px;
+    border-radius: 50px;
+    border: 1px solid #575757;
+
+}
+
+.secprod2 p {
+    margin-top: 30px;
+    padding-left: 10px;
+}
+
+.secprod2 p a:hover {
+    background-color: #007AFF;
+    border: 1px solid #007AFF;
+    color: #fff;
+}
+
+.seccovtotalpro p {
+    font-family: 'Bricolage Grotesque';
+    font-size: 14px;
+    background: #FCD33D;
+    padding: 5px 10px;
+    border-radius: 50px;
+    flex-wrap: wrap;
+    position: absolute;
+    top: 20px;
+    right: 35px;
+}
+
+.secimg3sbg {
+    background-color: #000;
+    padding: 50px;
+}
+
+.secrevibg {
+    padding: 50px;
+}
+
+/* flip */
+.flip-box {
+    background-color: transparent;
+    width: 300px;
+    height: 400px;
+    perspective: 1000px;
+}
+
+.flip-box-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.8s;
+    transform-style: preserve-3d;
+}
+
+.flip-box:hover .flip-box-inner {
+    transform: rotateY(180deg);
+}
+
+.flip-box-front,
+.flip-box-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
+
+.flip-box-front {
+    background-color: transparent;
+    color: black;
+}
+
+.flip-box-back {
+    background-color: #000;
+    padding: 10px;
+    border-radius: 12px;
+    color: white;
+    transform: rotateY(180deg);
+}
+
+.secnamelocbg {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 5px;
+}
+
+.secnamelocbg span {
+    font-family: 'Bricolage Grotesque';
+    font-size: 18px;
+    font-weight: 500;
+    color: #000;
+}
+
+.seclocd {
+    font-size: 14px !important;
+    font-weight: 400 !important;
+    color: #575757 !important;
+}
+
+.secimgtextbg {
+    display: flex;
+}
+
+.secimte1 {
+    width: 25%;
+}
+
+.secimte2 {
+    width: 75%;
+    padding-left: 10px;
+}
+
+.secimte1 img {
+    border-radius: 50px;
+}
+
+.secimte2 h4 {
+    text-align: start;
+    margin-bottom: 0;
+    font-family: 'Bricolage Grotesque';
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.secimte2 p {
+    text-align: start;
+    font-family: 'Bricolage Grotesque';
+    font-size: 14px;
+}
+
+.secbalfabstext {
+    font-family: 'Bricolage Grotesque';
+    padding-top: 40px;
+    text-align: start;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.secbtnrev {
+    text-align: start;
+    padding-top: 20px;
+}
+
+.secbtnrev a {
+    font-family: 'Bricolage Grotesque';
+    font-size: 15px;
+    font-weight: 500;
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 50px;
+    padding: 10px 30px;
+}
+
+.secbtnrev a:hover {
+    background-color: #fff;
+    color: #000;
+    text-decoration: none;
+}
+
+.secansersbg {
+    background-color: #000;
+    padding: 60px 10px;
+}
+
+.secaskhead {
+    font-family: 'Bricolage Grotesque';
+    color: #fff;
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.secasktext {
+    font-family: 'Bricolage Grotesque';
+    color: #fff;
+    font-size: 14px;
+}
+
+.secbtnask {
+    padding: 20px 0px;
+}
+
+.secbtnask a {
+    font-family: 'Bricolage Grotesque';
+    font-size: 18px;
+    font-weight: 500;
+    color: #fff;
+    background-color: transparent;
+    border: 1px solid #fff;
+    padding: 16px 30px 16px 10px;
+    border-radius: 50px;
+}
+
+.secbtnask a:hover {
+    background-color: #fff;
+    color: #000;
+    text-decoration: none;
+}
+
+.secbtnask a i {
+    background-color: #fff;
+    border-radius: 50px;
+    color: #000;
+    padding: 10px 11px;
+}
+
+.secbtnask a:hover i {
+    background-color: #007AFF;
+    color: #fff;
+}
+
+.accordion-header {
+    margin: 0px !important;
+}
+
+button.accordion-button.collapsed {
+    font-family: 'Bricolage Grotesque';
+    font-size: 20px;
+    font-weight: 500;
+    color: #000;
+}
+
+button.accordion-button {
+    font-family: 'Bricolage Grotesque';
+    font-size: 20px;
+    font-weight: 500;
+    color: #000 !important;
+    border: 0px !important;
+    background-color: #fff !important;
+    box-shadow: none !important;
+}
+
+.accordion-body {
+    font-family: 'Bricolage Grotesque';
+    font-size: 16px;
+    color: #000;
+}
+
+.accordion-item {
+    margin-bottom: 20px;
+}
+
+.secgetsbg {
+    background-color: #000;
+    padding: 60px;
+}
+
+.secbfdf {
+    background-color: #007AFF;
+    background-image: url(../images/bgframe.png);
+    padding-top: 50px;
+    padding-left: 50px;
+    border-radius: 20px;
+}
+
+.secstayhead {
+    font-family: 'Bricolage Grotesque';
+    font-size: 50px;
+    font-weight: 600;
+    color: #fff;
+}
+
+.secstytext {
+    font-family: 'Bricolage Grotesque';
+    font-size: 16px;
+    color: #fff;
+}
+
+.subscribe-form {
+    background-color: white;
+    border-radius: 50px;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    max-width: 500px;
+}
+
+.subscribe-form input {
+    border: none;
+    outline: none;
+    border-radius: 50px;
+    padding: 10px 20px;
+    flex: 1;
+}
+
+.subscribe-form button {
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 50px;
+    padding: 10px 25px;
+    font-weight: 500;
+    font-family: 'Bricolage Grotesque';
+}
+
+.subscribe-form input::placeholder {
+    color: #6c757d;
+}
+
+.secfooterbg {
+    background-color: #000;
+    padding: 60px;
+    padding-top: 0px !important;
+}
+
+.seclinfobg {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.secimgfotlink{
+     font-family: 'Bricolage Grotesque';
+     font-size: 19px;
+     color: #fff;
+     padding-left: 20px;
+}
+
+.secimgfotlink:hover{
+    color: #fff;
+}
+
+.secopytext{
+         font-family: 'Bricolage Grotesque';
+     font-size: 19px;
+     color: #fff;
+     padding-top: 20px;
+}
+.secfooterbg2{
+    background-color: #000;
+    padding: 0;
+}
