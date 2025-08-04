@@ -47,6 +47,7 @@ nav.navbar.navbar-expand-xl.navbar-dark {
 .secherobg {
     background-color: #000;
     padding-bottom: 60px;
+    padding-top: 40px;
 }
 
 .secdistext {
@@ -753,3 +754,34 @@ button.accordion-button {
     background-color: #000;
     padding: 0;
 }
+  .car-container {
+      position: relative;
+      max-width: 900px;
+      margin: 40px auto;
+      text-align: center;
+    }
+
+    .car-image {
+      width: 100%;
+      height: auto;
+    }
+
+    .label {
+      position: absolute;
+      background: #fff;
+      color: #000;
+      padding: 6px 12px;
+      border-radius: 20px;
+      font-size: 14px;
+      white-space: nowrap;
+      box-shadow: 0 0 8px rgba(0,0,0,0.1);
+      transition: all 0.3s ease;
+    }
+
+    /* Desktop label positions */
+    .label-ceramic { top: 5%; left: 10%; }
+    .label-detailing { top: 30%; left: -5%; }
+    .label-shampoo { bottom: 5%; left: 10%; }
+    .label-polish { top: 5%; right: 10%; }
+    .label-seat { top: 30%; right: -5%; }
+    .label-perfume { bottom: 5%; right: 10%; }
