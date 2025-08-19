@@ -194,6 +194,9 @@ button.accordion-button.collapsed , button.accordion-button {
     margin: 0px;
     padding: 0px 11px !important;
 }
+.secbbthero a {
+    padding: 16px 10px 16px 10px;
+}
 }
 
 
