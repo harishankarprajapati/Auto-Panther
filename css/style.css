@@ -1077,3 +1077,16 @@ input[type="range"].range-slider::-webkit-slider-thumb {
 .secconbgr{
     padding: 0px 0px 40px 0px;
 }
+.sec-menu-btn2{
+    background-color: #000;
+    border: 1px solid #000;
+    color: #fff;
+}
+.sec-menu-btn2:hover{
+    background-color: #fff;
+    border: 1px solid #000;
+    color: #000;
+}
+.secmaetr{
+padding-left: 17px;
+}
