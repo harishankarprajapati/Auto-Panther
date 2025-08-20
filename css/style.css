@@ -1059,3 +1059,21 @@ input[type="range"].range-slider::-webkit-slider-thumb {
     font-size: 10px;
 }
 /* shop-end */
+.secbgser {
+  background-image: url(../images/servbgg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 100px 10px 100px 10px;
+}
+
+.secbgser h3 {
+  font-family: 'Inter';
+  color: #fff;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 700;
+  margin-top: 0;
+}
+.secconbgr{
+    padding: 0px 0px 40px 0px;
+}
