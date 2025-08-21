@@ -245,6 +245,10 @@
   .filter-sidebar {
     display: none;
   }
+  .sec-adcot h3 {
+    padding-top: 20px;
+    font-size: 30px;
+  }
 }
 
 
