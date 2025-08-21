@@ -1090,3 +1090,33 @@ input[type="range"].range-slider::-webkit-slider-thumb {
 .secmaetr{
 padding-left: 17px;
 }
+.secabopasdcont h3 {
+    font-weight: 700;
+    font-size: 45px;
+    color: #171717;
+    font-family: 'Inter';
+    text-align: center;
+}
+.secabopasdcont p {
+    font-family: 'Inter';
+    font-size: 18px;
+    color: #171717;
+    text-align: center;
+}
+.sec-adcot h3 {
+    font-weight: 700;
+    font-size: 45px;
+    color: #171717;
+    font-family: 'Inter';
+}
+.sec-adcot p {
+    font-family: 'Inter';
+    font-size: 18px;
+    color: #171717;
+}
+.secabopasdcont h5 {
+    color: #F51E52;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 0;
+}
